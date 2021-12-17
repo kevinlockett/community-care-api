@@ -11,7 +11,7 @@
       "zipcode": "37011",
       "staff": false,
       "stakeholder": false,
-      "needsHelp": false,
+      "needsHelp": true,
       "volunteer": false,
       "phone": "486-398-1311"
     },
@@ -26,8 +26,8 @@
       "zipcode": "37011",
       "staff": false,
       "stakeholder": true,
-      "needsHelp": false,
-      "volunteer": true,
+      "needsHelp": true,
+      "volunteer": false,
       "phone": "669-741-0580"
     },
     {
@@ -41,7 +41,7 @@
       "zipcode": "37011",
       "staff": false,
       "stakeholder": false,
-      "needsHelp": false,
+      "needsHelp": true,
       "volunteer": false,
       "phone": "407-702-0553"
     },
@@ -56,8 +56,8 @@
       "zipcode": "37011",
       "staff": false,
       "stakeholder": true,
-      "needsHelp": false,
-      "volunteer": true,
+      "needsHelp": true,
+      "volunteer": false,
       "phone": "866-274-9205"
     },
     {
@@ -71,7 +71,7 @@
       "zipcode": "37013",
       "staff": false,
       "stakeholder": false,
-      "needsHelp": false,
+      "needsHelp": true,
       "volunteer": false,
       "phone": "157-283-1765"
     },
@@ -86,8 +86,8 @@
       "zipcode": "37013",
       "staff": false,
       "stakeholder": false,
-      "needsHelp": false,
-      "volunteer": true,
+      "needsHelp": true,
+      "volunteer": false,
       "phone": "760-698-0432"
     },
     {
@@ -102,7 +102,7 @@
       "staff": true,
       "stakeholder": true,
       "needsHelp": false,
-      "volunteer": true,
+      "volunteer": false,
       "phone": "277-893-4330"
     },
     {
@@ -131,8 +131,8 @@
       "zipcode": "37076",
       "staff": false,
       "stakeholder": true,
-      "needsHelp": false,
-      "volunteer": true,
+      "needsHelp": true,
+      "volunteer": false,
       "phone": "269-667-0005"
     },
     {
@@ -161,7 +161,7 @@
       "zipcode": "37027",
       "staff": false,
       "stakeholder": false,
-      "needsHelp": false,
+      "needsHelp": true,
       "volunteer": false,
       "phone": "981-462-3383"
     },
@@ -176,7 +176,7 @@
       "zipcode": "37027",
       "staff": false,
       "stakeholder": false,
-      "needsHelp": false,
+      "needsHelp": true,
       "volunteer": false,
       "phone": "575-241-7400"
     },
@@ -192,7 +192,7 @@
       "staff": true,
       "stakeholder": true,
       "needsHelp": false,
-      "volunteer": false,
+      "volunteer": true,
       "phone": "778-533-3477"
     },
     {
@@ -207,7 +207,7 @@
       "staff": true,
       "stakeholder": true,
       "needsHelp": false,
-      "volunteer": false,
+      "volunteer": true,
       "phone": "407-733-8734"
     },
     {
@@ -221,8 +221,8 @@
       "zipcode": "37207",
       "staff": false,
       "stakeholder": true,
-      "needsHelp": false,
-      "volunteer": false,
+      "needsHelp": true,
+      "volunteer": true,
       "phone": "176-785-3586"
     },
     {
@@ -237,7 +237,7 @@
       "staff": false,
       "stakeholder": false,
       "needsHelp": false,
-      "volunteer": false,
+      "volunteer": true,
       "phone": "705-574-7986"
     },
     {
@@ -252,7 +252,7 @@
       "staff": false,
       "stakeholder": false,
       "needsHelp": false,
-      "volunteer": true,
+      "volunteer": false,
       "phone": "419-290-8841"
     },
     {
@@ -297,7 +297,7 @@
       "staff": false,
       "stakeholder": false,
       "needsHelp": false,
-      "volunteer": false,
+      "volunteer": true,
       "phone": "130-733-3033"
     },
     {
@@ -342,7 +342,7 @@
       "staff": false,
       "stakeholder": false,
       "needsHelp": false,
-      "volunteer": true,
+      "volunteer": false,
       "phone": "602-826-0330"
     },
     {
@@ -356,7 +356,7 @@
       "zipcode": "38402",
       "staff": false,
       "stakeholder": false,
-      "needsHelp": false,
+      "needsHelp": true,
       "volunteer": false,
       "phone": "954-947-2997"
     },
@@ -372,7 +372,7 @@
       "staff": false,
       "stakeholder": false,
       "needsHelp": false,
-      "volunteer": true,
+      "volunteer": false,
       "phone": "268-967-5291"
     },
     {
@@ -387,7 +387,7 @@
       "staff": false,
       "stakeholder": true,
       "needsHelp": false,
-      "volunteer": true,
+      "volunteer": false,
       "phone": "472-536-0392"
     },
     {
@@ -401,7 +401,7 @@
       "zipcode": "38402",
       "staff": false,
       "stakeholder": false,
-      "needsHelp": false,
+      "needsHelp": true,
       "volunteer": false,
       "phone": "222-350-8229"
     },
@@ -417,7 +417,7 @@
       "staff": false,
       "stakeholder": true,
       "needsHelp": false,
-      "volunteer": true,
+      "volunteer": false,
       "phone": "154-334-3766"
     },
     {
@@ -462,7 +462,7 @@
       "staff": false,
       "stakeholder": false,
       "needsHelp": false,
-      "volunteer": true,
+      "volunteer": false,
       "phone": "233-547-4366"
     },
     {
@@ -552,7 +552,7 @@
       "staff": false,
       "stakeholder": false,
       "needsHelp": false,
-      "volunteer": true,
+      "volunteer": false,
       "phone": "746-143-4887"
     },
     {
@@ -657,7 +657,7 @@
       "staff": false,
       "stakeholder": false,
       "needsHelp": false,
-      "volunteer": true,
+      "volunteer": false,
       "phone": "281-928-9823"
     },
     {
@@ -702,7 +702,7 @@
       "staff": false,
       "stakeholder": true,
       "needsHelp": false,
-      "volunteer": true,
+      "volunteer": false,
       "phone": "421-343-8310"
     },
     {
@@ -717,7 +717,7 @@
       "staff": false,
       "stakeholder": false,
       "needsHelp": false,
-      "volunteer": true,
+      "volunteer": false,
       "phone": "926-303-6293"
     },
     {
@@ -731,8 +731,8 @@
       "zipcode": "38401",
       "staff": false,
       "stakeholder": true,
-      "needsHelp": false,
-      "volunteer": true,
+      "needsHelp": true,
+      "volunteer": false,
       "phone": "448-330-1380"
     },
     {
@@ -749,163 +749,352 @@
       "needsHelp": false,
       "volunteer": false,
       "phone": "995-654-8639"
-    },
-    {
-      "first_name": "Kevin",
-      "last_name": "Lockett",
-      "email": "chlockett@msn.com",
-      "address": "2510 Palomar Cir Apt O-12",
-      "apt": null,
-      "city": "Columbia",
-      "zipcode": "38401",
-      "phone": "907-888-2114",
-      "stakeholder": "true",
-      "staff": false,
-      "needsHelp": false,
-      "volunteer": false,
-      "id": 51
-    },
-    {
-      "first_name": "Elizabeth",
-      "last_name": "Lockett",
-      "email": "babylockett@live.com",
-      "address": "2758 Nottingham Dr",
-      "apt": null,
-      "city": "Columbia",
-      "zipcode": "38401",
-      "phone": "907-888-2117",
-      "stakeholder": "true",
-      "staff": false,
-      "needsHelp": false,
-      "volunteer": false,
-      "id": 52
-    },
-    {
-      "first_name": "Patricia",
-      "last_name": "Yarvey",
-      "email": "pat@yarvey.com",
-      "address": "200 6th St",
-      "apt": "Apt 12-A",
-      "city": "Nashville",
-      "zipcode": "37027",
-      "phone": "615-123-4567",
-      "stakeholder": true,
-      "staff": true,
-      "needsHelp": false,
-      "volunteer": false,
-      "id": 53
-    },
-    {
-      "first_name": "Tom",
-      "last_name": "Jones",
-      "email": "tom@jones.com",
-      "address": "56 3rd Ave",
-      "apt": "Apt 212-C",
-      "city": "Nashville",
-      "zipcode": "37011",
-      "phone": "615-234-5678",
-      "stakeholder": true,
-      "staff": false,
-      "needsHelp": false,
-      "volunteer": false,
-      "id": 54
-    },
-    {
-      "first_name": "Peter",
-      "last_name": "Jacobson",
-      "email": "PJ@ufdah.com",
-      "address": "212 Ufda Ln",
-      "apt": null,
-      "city": "Columbia",
-      "zipcode": "38401",
-      "phone": "615-123-4567",
-      "stakeholder": false,
-      "staff": false,
-      "needsHelp": false,
-      "volunteer": false,
-      "id": 55
-    },
-    {
-      "first_name": "Pam",
-      "last_name": "Martin",
-      "email": "pam@martin.com",
-      "address": "213 My Ln",
-      "apt": null,
-      "city": "Columbia",
-      "zipcode": "38401",
-      "phone": "615-987-6543",
-      "stakeholder": false,
-      "staff": false,
-      "needsHelp": false,
-      "volunteer": false,
-      "id": 56
-    },
-    {
-      "first_name": "Peggy",
-      "last_name": "Johnson",
-      "email": "peggy@johnson.com",
-      "address": "1300 Jones Ln",
-      "apt": null,
-      "city": "Columbia",
-      "zipcode": "38401",
-      "phone": "615-789-7890",
-      "stakeholder": true,
-      "staff": false,
-      "needsHelp": true,
-      "volunteer": false,
-      "id": 57
-    },
-    {
-      "first_name": "Peggy",
-      "last_name": "Anderson",
-      "email": "pj@anderson.com",
-      "address": "1200 my",
-      "apt": null,
-      "city": "Franklin",
-      "zipcode": "37064",
-      "phone": "123-456-7890",
-      "stakeholder": false,
-      "staff": false,
-      "needsHelp": false,
-      "volunteer": true,
-      "id": 58
-    },
-    {
-      "first_name": "John",
-      "last_name": "Doe",
-      "email": "jd@gmail.com",
-      "address": "1212 Nowhere Dr",
-      "apt": "Apt 534",
-      "city": "Franklin",
-      "zipcode": "37064",
-      "phone": "123-456-7890",
-      "stakeholder": false,
-      "staff": false,
-      "volunteer": false,
-      "needsHelp": false,
-      "id": 59
     }
   ],
   "requests": [
     {
-      "id": 1,
-      "userId": 57,
-      "approverId": null,
+      "userId": 1,
+      "approverId": 7,
       "taskId": 1,
-      "details": "I need help with cleaning out my garage. There are many heavy items I cannot lift.",
-      "dateNeeded": "01-30-2022"
+      "details": "I need help with light cleaning as I recover from pneumonia.",
+      "dateNeeded": "2022-01-05",
+      "id": 2,
+      "user": {
+        "id": 1,
+        "first_name": "Elsie",
+        "last_name": "Hawkridge",
+        "email": "ehawkridge0@wordpress.org",
+        "address": "8828 Almo Point",
+        "apt": "Apt 325",
+        "city": "Nashville",
+        "zipcode": "37011",
+        "staff": false,
+        "stakeholder": false,
+        "needsHelp": true,
+        "volunteer": false,
+        "phone": "486-398-1311"
+      }
+    },
+    {
+      "userId": 2,
+      "approverId": 7,
+      "taskId": 2,
+      "details": "I need some repairs on my front door.",
+      "dateNeeded": "2022-01-06",
+      "id": 3,
+      "user": {
+        "id": 2,
+        "first_name": "Mindy",
+        "last_name": "Wolvey",
+        "email": "mwolvey1@theglobeandmail.com",
+        "address": "929 Delaware Plaza",
+        "apt": "",
+        "city": "Nashville",
+        "zipcode": "37011",
+        "staff": false,
+        "stakeholder": true,
+        "needsHelp": true,
+        "volunteer": false,
+        "phone": "669-741-0580"
+      }
+    },
+    {
+      "userId": 3,
+      "approverId": 0,
+      "taskId": 3,
+      "details": "I have a leaky sink and at 93, I can't do that kind of work anymore.",
+      "dateNeeded": "2022-01-03",
+      "id": 4
+    },
+    {
+      "userId": 4,
+      "approverId": 0,
+      "taskId": 4,
+      "details": "I have a short in a light switch and I keep getting shocked.  Please help!",
+      "dateNeeded": "2022-01-10",
+      "id": 5
+    },
+    {
+      "userId": 5,
+      "approverId": 0,
+      "taskId": 5,
+      "details": "My furnace is not working and it's cold out.  Brrrr.",
+      "dateNeeded": "2021-12-17",
+      "id": 6
+    },
+    {
+      "userId": 6,
+      "approverId": 0,
+      "taskId": 6,
+      "details": "I need help setting up a new computer so I can see my grandchildren in Washington.",
+      "dateNeeded": "2022-01-12",
+      "id": 7
+    },
+    {
+      "userId": 9,
+      "approverId": 7,
+      "taskId": 7,
+      "details": "My lawn needs to be mowed and raked. The neighbors are complaining, but my mower isn't working and I am recovering from a heart attack.",
+      "dateNeeded": "2022-01-18",
+      "id": 8
+    },
+    {
+      "userId": 11,
+      "approverId": 0,
+      "taskId": 8,
+      "details": "My husband was a hoarder. He died last month, I need help clearing stuff out of the house so I can sell it.",
+      "dateNeeded": "2022-01-28",
+      "id": 9
+    },
+    {
+      "userId": 12,
+      "approverId": 0,
+      "taskId": 9,
+      "details": "My neighbors said if I don't paint my house, they are going to call the county and get me in trouble, but at my age, I can't climb a ladder anymore.",
+      "dateNeeded": "2022-01-25",
+      "id": 10
+    },
+    {
+      "userId": 15,
+      "approverId": 0,
+      "taskId": 10,
+      "details": "We have smoke damage in our living room and need to have it painted before our lease ends or we'll get fined.",
+      "dateNeeded": "2022-01-25",
+      "id": 11
+    },
+    {
+      "userId": 24,
+      "approverId": 0,
+      "taskId": 2,
+      "details": "My window is broken and the house is cold.",
+      "dateNeeded": "2022-01-26",
+      "id": 12
+    },
+    {
+      "userId": 27,
+      "approverId": 0,
+      "taskId": 8,
+      "details": "I have lots of heavy boxes in my garage I want to donate to charity, but I can't lift them.",
+      "dateNeeded": "2022-01-26",
+      "id": 13
+    },
+    {
+      "userId": 49,
+      "approverId": 0,
+      "taskId": 3,
+      "details": "I need a new toilet",
+      "dateNeeded": "2022-01-06",
+      "id": 14
+    },
+    {
+      "userId": 49,
+      "approverId": 7,
+      "taskId": 10,
+      "details": "I need to paint the kitchen",
+      "dateNeeded": "2022-01-03",
+      "id": 15
+    },
+    {
+      "userId": 49,
+      "approverId": 0,
+      "taskId": 1,
+      "details": "I am unable to clean my home due to chemotherapy.",
+      "dateNeeded": "2022-01-06",
+      "id": 16
     }
   ],
   "offers": [
     {
-      "userId": 58,
+      "userId": 13,
+      "approverId": 0,
       "taskId": 1,
-      "id": 1
+      "id": 3
     },
     {
-      "userId": 58,
-      "taskId": 10,
-      "id": 2
+      "userId": 13,
+      "approverId": 0,
+      "taskId": 4,
+      "id": 4
+    },
+    {
+      "userId": 13,
+      "approverId": 0,
+      "taskId": 7,
+      "id": 5
+    },
+    {
+      "userId": 14,
+      "approverId": 0,
+      "taskId": 2,
+      "id": 7
+    },
+    {
+      "userId": 14,
+      "approverId": 0,
+      "taskId": 5,
+      "id": 8
+    },
+    {
+      "userId": 14,
+      "approverId": 0,
+      "taskId": 8,
+      "id": 9
+    },
+    {
+      "userId": 15,
+      "approverId": 0,
+      "taskId": 3,
+      "id": 10
+    },
+    {
+      "userId": 15,
+      "approverId": 0,
+      "taskId": 6,
+      "id": 11
+    },
+    {
+      "userId": 15,
+      "approverId": 0,
+      "taskId": 9,
+      "id": 12
+    },
+    {
+      "userId": 16,
+      "approverId": 7,
+      "taskId": 1,
+      "id": 13,
+      "user": {
+        "id": 16,
+        "first_name": "Doralin",
+        "last_name": "Munton",
+        "email": "dmuntonf@ucoz.ru",
+        "address": "358 Dakota Trail",
+        "apt": "",
+        "city": "Brentwood",
+        "zipcode": "37207",
+        "staff": false,
+        "stakeholder": false,
+        "needsHelp": false,
+        "volunteer": true,
+        "phone": "705-574-7986"
+      }
+    },
+    {
+      "userId": 16,
+      "approverId": 7,
+      "taskId": 3,
+      "id": 14,
+      "user": {
+        "id": 16,
+        "first_name": "Doralin",
+        "last_name": "Munton",
+        "email": "dmuntonf@ucoz.ru",
+        "address": "358 Dakota Trail",
+        "apt": "",
+        "city": "Brentwood",
+        "zipcode": "37207",
+        "staff": false,
+        "stakeholder": false,
+        "needsHelp": false,
+        "volunteer": true,
+        "phone": "705-574-7986"
+      }
+    },
+    {
+      "userId": 16,
+      "approverId": 7,
+      "taskId": 5,
+      "id": 15,
+      "user": {
+        "id": 16,
+        "first_name": "Doralin",
+        "last_name": "Munton",
+        "email": "dmuntonf@ucoz.ru",
+        "address": "358 Dakota Trail",
+        "apt": "",
+        "city": "Brentwood",
+        "zipcode": "37207",
+        "staff": false,
+        "stakeholder": false,
+        "needsHelp": false,
+        "volunteer": true,
+        "phone": "705-574-7986"
+      }
+    },
+    {
+      "userId": 16,
+      "approverId": 7,
+      "taskId": 9,
+      "id": 16,
+      "user": {
+        "id": 16,
+        "first_name": "Doralin",
+        "last_name": "Munton",
+        "email": "dmuntonf@ucoz.ru",
+        "address": "358 Dakota Trail",
+        "apt": "",
+        "city": "Brentwood",
+        "zipcode": "37207",
+        "staff": false,
+        "stakeholder": false,
+        "needsHelp": false,
+        "volunteer": true,
+        "phone": "705-574-7986"
+      }
+    },
+    {
+      "userId": 20,
+      "approverId": 0,
+      "taskId": 1,
+      "id": 18
+    },
+    {
+      "userId": 20,
+      "approverId": 0,
+      "taskId": 2,
+      "id": 19
+    },
+    {
+      "userId": 20,
+      "approverId": 0,
+      "taskId": 9,
+      "id": 20
+    },
+    {
+      "userId": 20,
+      "approverId": 0,
+      "taskId": 7,
+      "id": 21
+    },
+    {
+      "userId": 21,
+      "approverId": 0,
+      "taskId": 6,
+      "id": 23
+    },
+    {
+      "userId": 22,
+      "approverId": 0,
+      "taskId": 1,
+      "id": 24
+    },
+    {
+      "userId": 22,
+      "approverId": 0,
+      "taskId": 7,
+      "id": 25
+    },
+    {
+      "userId": 43,
+      "approverId": 19,
+      "taskId": 7,
+      "id": 26
+    },
+    {
+      "userId": 43,
+      "approverId": 0,
+      "taskId": 3,
+      "id": 28
     }
   ],
   "tasks": [
@@ -950,7 +1139,5 @@
       "task": "Interior Painting"
     }
   ],
-  "assignments": [
-    {}
-  ]
+  "assignments": []
 }
