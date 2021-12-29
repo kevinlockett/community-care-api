@@ -102,7 +102,7 @@
       "staff": true,
       "stakeholder": true,
       "needsHelp": false,
-      "volunteer": false,
+      "volunteer": true,
       "phone": "277-893-4330"
     },
     {
@@ -132,7 +132,7 @@
       "staff": false,
       "stakeholder": true,
       "needsHelp": true,
-      "volunteer": false,
+      "volunteer": true,
       "phone": "269-667-0005"
     },
     {
@@ -749,6 +749,21 @@
       "needsHelp": false,
       "volunteer": false,
       "phone": "995-654-8639"
+    },
+    {
+      "first_name": "Peggy",
+      "last_name": "Lockett",
+      "email": "momlockett@live.com",
+      "address": "2510 Palomar Cir Apt O-12",
+      "apt": "12-B",
+      "city": "Columbia",
+      "zipcode": "38401",
+      "phone": "907-888-2114",
+      "stakeholder": true,
+      "staff": false,
+      "volunteer": true,
+      "needsHelp": true,
+      "id": 51
     }
   ],
   "requests": [
@@ -758,22 +773,7 @@
       "taskId": 1,
       "details": "I need help with light cleaning as I recover from pneumonia.",
       "dateNeeded": "2022-01-05",
-      "id": 2,
-      "user": {
-        "id": 1,
-        "first_name": "Elsie",
-        "last_name": "Hawkridge",
-        "email": "ehawkridge0@wordpress.org",
-        "address": "8828 Almo Point",
-        "apt": "Apt 325",
-        "city": "Nashville",
-        "zipcode": "37011",
-        "staff": false,
-        "stakeholder": false,
-        "needsHelp": true,
-        "volunteer": false,
-        "phone": "486-398-1311"
-      }
+      "id": 2
     },
     {
       "userId": 2,
@@ -781,26 +781,11 @@
       "taskId": 2,
       "details": "I need some repairs on my front door.",
       "dateNeeded": "2022-01-06",
-      "id": 3,
-      "user": {
-        "id": 2,
-        "first_name": "Mindy",
-        "last_name": "Wolvey",
-        "email": "mwolvey1@theglobeandmail.com",
-        "address": "929 Delaware Plaza",
-        "apt": "",
-        "city": "Nashville",
-        "zipcode": "37011",
-        "staff": false,
-        "stakeholder": true,
-        "needsHelp": true,
-        "volunteer": false,
-        "phone": "669-741-0580"
-      }
+      "id": 3
     },
     {
       "userId": 3,
-      "approverId": 0,
+      "approverId": 7,
       "taskId": 3,
       "details": "I have a leaky sink and at 93, I can't do that kind of work anymore.",
       "dateNeeded": "2022-01-03",
@@ -808,7 +793,7 @@
     },
     {
       "userId": 4,
-      "approverId": 0,
+      "approverId": 7,
       "taskId": 4,
       "details": "I have a short in a light switch and I keep getting shocked.  Please help!",
       "dateNeeded": "2022-01-10",
@@ -816,7 +801,7 @@
     },
     {
       "userId": 5,
-      "approverId": 0,
+      "approverId": 7,
       "taskId": 5,
       "details": "My furnace is not working and it's cold out.  Brrrr.",
       "dateNeeded": "2021-12-17",
@@ -824,7 +809,7 @@
     },
     {
       "userId": 6,
-      "approverId": 0,
+      "approverId": 7,
       "taskId": 6,
       "details": "I need help setting up a new computer so I can see my grandchildren in Washington.",
       "dateNeeded": "2022-01-12",
@@ -840,7 +825,7 @@
     },
     {
       "userId": 11,
-      "approverId": 0,
+      "approverId": 16,
       "taskId": 8,
       "details": "My husband was a hoarder. He died last month, I need help clearing stuff out of the house so I can sell it.",
       "dateNeeded": "2022-01-28",
@@ -848,7 +833,7 @@
     },
     {
       "userId": 12,
-      "approverId": 0,
+      "approverId": 16,
       "taskId": 9,
       "details": "My neighbors said if I don't paint my house, they are going to call the county and get me in trouble, but at my age, I can't climb a ladder anymore.",
       "dateNeeded": "2022-01-25",
@@ -856,8 +841,8 @@
     },
     {
       "userId": 15,
-      "approverId": 0,
-      "taskId": 10,
+      "approverId": 16,
+      "taskId": 9,
       "details": "We have smoke damage in our living room and need to have it painted before our lease ends or we'll get fined.",
       "dateNeeded": "2022-01-25",
       "id": 11
@@ -872,7 +857,7 @@
     },
     {
       "userId": 27,
-      "approverId": 0,
+      "approverId": 16,
       "taskId": 8,
       "details": "I have lots of heavy boxes in my garage I want to donate to charity, but I can't lift them.",
       "dateNeeded": "2022-01-26",
@@ -889,48 +874,56 @@
     {
       "userId": 49,
       "approverId": 7,
-      "taskId": 10,
+      "taskId": 9,
       "details": "I need to paint the kitchen",
       "dateNeeded": "2022-01-03",
       "id": 15
     },
     {
       "userId": 49,
-      "approverId": 0,
-      "taskId": 1,
-      "details": "I am unable to clean my home due to chemotherapy.",
+      "approverId": 7,
+      "taskId": 10,
+      "details": "My car keeps dying and I need it to get to work. I am a single mom.",
       "dateNeeded": "2022-01-06",
       "id": 16
+    },
+    {
+      "userId": 1,
+      "approverId": 7,
+      "taskId": 10,
+      "details": "My car won't start",
+      "dateNeeded": "2022-01-07",
+      "id": 17
     }
   ],
   "offers": [
     {
       "userId": 13,
-      "approverId": 0,
+      "approverId": 7,
       "taskId": 1,
       "id": 3
     },
     {
       "userId": 13,
-      "approverId": 0,
+      "approverId": 7,
       "taskId": 4,
       "id": 4
     },
     {
       "userId": 13,
-      "approverId": 0,
+      "approverId": 7,
       "taskId": 7,
       "id": 5
     },
     {
       "userId": 14,
-      "approverId": 0,
+      "approverId": 7,
       "taskId": 2,
       "id": 7
     },
     {
       "userId": 14,
-      "approverId": 0,
+      "approverId": 7,
       "taskId": 5,
       "id": 8
     },
@@ -962,85 +955,25 @@
       "userId": 16,
       "approverId": 7,
       "taskId": 1,
-      "id": 13,
-      "user": {
-        "id": 16,
-        "first_name": "Doralin",
-        "last_name": "Munton",
-        "email": "dmuntonf@ucoz.ru",
-        "address": "358 Dakota Trail",
-        "apt": "",
-        "city": "Brentwood",
-        "zipcode": "37207",
-        "staff": false,
-        "stakeholder": false,
-        "needsHelp": false,
-        "volunteer": true,
-        "phone": "705-574-7986"
-      }
+      "id": 13
     },
     {
       "userId": 16,
       "approverId": 7,
       "taskId": 3,
-      "id": 14,
-      "user": {
-        "id": 16,
-        "first_name": "Doralin",
-        "last_name": "Munton",
-        "email": "dmuntonf@ucoz.ru",
-        "address": "358 Dakota Trail",
-        "apt": "",
-        "city": "Brentwood",
-        "zipcode": "37207",
-        "staff": false,
-        "stakeholder": false,
-        "needsHelp": false,
-        "volunteer": true,
-        "phone": "705-574-7986"
-      }
+      "id": 14
     },
     {
       "userId": 16,
       "approverId": 7,
       "taskId": 5,
-      "id": 15,
-      "user": {
-        "id": 16,
-        "first_name": "Doralin",
-        "last_name": "Munton",
-        "email": "dmuntonf@ucoz.ru",
-        "address": "358 Dakota Trail",
-        "apt": "",
-        "city": "Brentwood",
-        "zipcode": "37207",
-        "staff": false,
-        "stakeholder": false,
-        "needsHelp": false,
-        "volunteer": true,
-        "phone": "705-574-7986"
-      }
+      "id": 15
     },
     {
       "userId": 16,
       "approverId": 7,
       "taskId": 9,
-      "id": 16,
-      "user": {
-        "id": 16,
-        "first_name": "Doralin",
-        "last_name": "Munton",
-        "email": "dmuntonf@ucoz.ru",
-        "address": "358 Dakota Trail",
-        "apt": "",
-        "city": "Brentwood",
-        "zipcode": "37207",
-        "staff": false,
-        "stakeholder": false,
-        "needsHelp": false,
-        "volunteer": true,
-        "phone": "705-574-7986"
-      }
+      "id": 16
     },
     {
       "userId": 20,
@@ -1075,12 +1008,6 @@
     {
       "userId": 22,
       "approverId": 0,
-      "taskId": 1,
-      "id": 24
-    },
-    {
-      "userId": 22,
-      "approverId": 0,
       "taskId": 7,
       "id": 25
     },
@@ -1092,9 +1019,123 @@
     },
     {
       "userId": 43,
-      "approverId": 0,
+      "approverId": 7,
       "taskId": 3,
       "id": 28
+    },
+    {
+      "userId": 9,
+      "taskId": 6,
+      "approverId": 0,
+      "id": 29
+    },
+    {
+      "userId": 13,
+      "taskId": 10,
+      "approverId": 0,
+      "id": 30
+    },
+    {
+      "userId": 13,
+      "taskId": 6,
+      "approverId": 0,
+      "id": 31
+    },
+    {
+      "userId": 9,
+      "taskId": 4,
+      "approverId": 0,
+      "id": 32
+    },
+    {
+      "userId": 9,
+      "taskId": 1,
+      "approverId": 0,
+      "id": 33
+    },
+    {
+      "userId": 9,
+      "taskId": 7,
+      "approverId": 0,
+      "id": 34
+    },
+    {
+      "userId": 9,
+      "taskId": 10,
+      "approverId": 0,
+      "id": 35
+    },
+    {
+      "userId": 9,
+      "taskId": 9,
+      "approverId": 7,
+      "id": 36
+    },
+    {
+      "userId": 9,
+      "taskId": 3,
+      "approverId": 16,
+      "id": 37
+    },
+    {
+      "userId": 9,
+      "taskId": 5,
+      "approverId": 16,
+      "id": 39
+    },
+    {
+      "userId": 9,
+      "taskId": 8,
+      "approverId": 7,
+      "id": 41
+    },
+    {
+      "userId": 9,
+      "taskId": 2,
+      "approverId": 7,
+      "id": 42
+    },
+    {
+      "userId": 51,
+      "taskId": 8,
+      "approverId": 7,
+      "id": 45
+    },
+    {
+      "userId": 51,
+      "taskId": 9,
+      "approverId": 7,
+      "id": 46
+    },
+    {
+      "userId": 51,
+      "taskId": 10,
+      "approverId": 7,
+      "id": 47
+    },
+    {
+      "userId": 51,
+      "taskId": 2,
+      "approverId": 7,
+      "id": 48
+    },
+    {
+      "userId": 51,
+      "taskId": 5,
+      "approverId": 0,
+      "id": 51
+    },
+    {
+      "userId": 51,
+      "taskId": 6,
+      "approverId": 0,
+      "id": 52
+    },
+    {
+      "userId": 51,
+      "taskId": 7,
+      "approverId": 0,
+      "id": 53
     }
   ],
   "tasks": [
@@ -1132,12 +1173,52 @@
     },
     {
       "id": 9,
-      "task": "Exterior Painting"
+      "task": "Painting"
     },
     {
       "id": 10,
-      "task": "Interior Painting"
+      "task": "Automotive Repair"
     }
   ],
-  "assignments": []
+  "assignments": [
+    {
+      "id": 1,
+      "requestId": 16,
+      "offerId": 47,
+      "taskId": 10,
+      "completed": true,
+      "workDate": "2021-12-28",
+      "lengthInHours": 1.5
+    },
+    {
+      "id": 2,
+      "requestId": 3,
+      "offerId": 48,
+      "taskId": 2,
+      "completed": true,
+      "workDate": "2021-12-30",
+      "lengthInHours": 1.75
+    },
+    {
+      "requestId": 17,
+      "taskId": 10,
+      "completed": false,
+      "offerId": 47,
+      "id": 3
+    },
+    {
+      "requestId": 9,
+      "taskId": 8,
+      "completed": false,
+      "offerId": 45,
+      "id": 4
+    },
+    {
+      "requestId": 10,
+      "taskId": 9,
+      "completed": false,
+      "offerId": 46,
+      "id": 5
+    }
+  ]
 }
