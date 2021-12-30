@@ -1204,6 +1204,7 @@
       "taskId": 10,
       "completed": false,
       "offerId": 47,
+      "lengthInHours": 0,
       "id": 3
     },
     {
@@ -1211,6 +1212,7 @@
       "taskId": 8,
       "completed": false,
       "offerId": 45,
+      "lengthInHours": 0,
       "id": 4
     },
     {
@@ -1218,6 +1220,7 @@
       "taskId": 9,
       "completed": false,
       "offerId": 46,
+      "lengthInHours": 0,
       "id": 5
     }
   ]
