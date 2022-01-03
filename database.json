@@ -3,7 +3,7 @@
     {
       "id": 1,
       "first_name": "Elsie",
-      "last_name": "Hawkridge",
+      "last_name": "Jones",
       "email": "ehawkridge0@wordpress.org",
       "address": "8828 Almo Point",
       "apt": "Apt 325",
@@ -754,15 +754,15 @@
       "first_name": "Peggy",
       "last_name": "Lockett",
       "email": "momlockett@live.com",
-      "address": "2510 Palomar Cir Apt O-12",
-      "apt": "12-B",
-      "city": "Columbia",
-      "zipcode": "38401",
-      "phone": "907-888-2114",
+      "address": "2473 Somewhere Ln",
+      "apt": "Apt 301-B",
+      "city": "Spring Hill",
+      "zipcode": "37174",
+      "phone": "615-987-6543",
       "stakeholder": true,
       "staff": false,
       "volunteer": true,
-      "needsHelp": true,
+      "needsHelp": false,
       "id": 51
     }
   ],
@@ -849,7 +849,7 @@
     },
     {
       "userId": 24,
-      "approverId": 0,
+      "approverId": 7,
       "taskId": 2,
       "details": "My window is broken and the house is cold.",
       "dateNeeded": "2022-01-26",
@@ -865,7 +865,7 @@
     },
     {
       "userId": 49,
-      "approverId": 0,
+      "approverId": 7,
       "taskId": 3,
       "details": "I need a new toilet",
       "dateNeeded": "2022-01-06",
@@ -894,6 +894,22 @@
       "details": "My car won't start",
       "dateNeeded": "2022-01-07",
       "id": 17
+    },
+    {
+      "userId": 1,
+      "approverId": 0,
+      "taskId": 7,
+      "details": "I cannot mow right now because of a broken leg.",
+      "dateNeeded": "2022-01-07",
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "approverId": 0,
+      "taskId": 5,
+      "details": "My heater is out and it's cold!",
+      "dateNeeded": "2022-01-04",
+      "id": 20
     }
   ],
   "offers": [
@@ -1026,7 +1042,7 @@
     {
       "userId": 9,
       "taskId": 6,
-      "approverId": 0,
+      "approverId": 7,
       "id": 29
     },
     {
@@ -1043,12 +1059,6 @@
     },
     {
       "userId": 9,
-      "taskId": 4,
-      "approverId": 0,
-      "id": 32
-    },
-    {
-      "userId": 9,
       "taskId": 1,
       "approverId": 0,
       "id": 33
@@ -1056,7 +1066,7 @@
     {
       "userId": 9,
       "taskId": 7,
-      "approverId": 0,
+      "approverId": 7,
       "id": 34
     },
     {
@@ -1097,44 +1107,14 @@
     },
     {
       "userId": 51,
-      "taskId": 8,
-      "approverId": 7,
-      "id": 45
-    },
-    {
-      "userId": 51,
-      "taskId": 9,
-      "approverId": 7,
-      "id": 46
-    },
-    {
-      "userId": 51,
-      "taskId": 10,
-      "approverId": 7,
-      "id": 47
-    },
-    {
-      "userId": 51,
-      "taskId": 2,
-      "approverId": 7,
-      "id": 48
-    },
-    {
-      "userId": 51,
-      "taskId": 5,
-      "approverId": 0,
-      "id": 51
-    },
-    {
-      "userId": 51,
       "taskId": 6,
       "approverId": 0,
       "id": 52
     },
     {
-      "userId": 51,
-      "taskId": 7,
-      "approverId": 0,
+      "userId": 7,
+      "taskId": 1,
+      "approverId": 7,
       "id": 53
     }
   ],
@@ -1200,28 +1180,37 @@
       "lengthInHours": 1.75
     },
     {
+      "requestId": 10,
+      "taskId": 9,
+      "completed": true,
+      "offerId": 46,
+      "lengthInHours": 2.5,
+      "id": 5,
+      "workDate": "2021-12-29"
+    },
+    {
+      "requestId": 13,
+      "taskId": 8,
+      "completed": false,
+      "lengthInHours": 0,
+      "offerId": 45,
+      "id": 7
+    },
+    {
       "requestId": 17,
       "taskId": 10,
       "completed": false,
-      "offerId": 47,
       "lengthInHours": 0,
-      "id": 3
+      "offerId": 47,
+      "id": 8
     },
     {
       "requestId": 9,
       "taskId": 8,
       "completed": false,
+      "lengthInHours": 0,
       "offerId": 45,
-      "lengthInHours": 0,
-      "id": 4
-    },
-    {
-      "requestId": 10,
-      "taskId": 9,
-      "completed": false,
-      "offerId": 46,
-      "lengthInHours": 0,
-      "id": 5
+      "id": 9
     }
   ]
 }
